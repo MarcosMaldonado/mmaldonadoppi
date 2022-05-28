@@ -1,1 +1,9 @@
-hola mundo
+ git add . - f (agrega todo lo nuevo)
+$ git commit -m (guarda cambios y le agrega comentarios)
+
+$ git push origin main (envia los cambios)
+
+
+push "es de enviar" 
+pull "es de estirar"
+
